@@ -1,5 +1,4 @@
-# MRI-ISP
-MRI Independent Study Project -
+# Independent Study Project - MRI
 Development of Radiomic-Driven Classifiers for Comparison Against Sequences Produced Using Deep Neural Network Architectures for Image-Drive Cancer Diagnosis
 
 This repo holds the Python files used for preliminary analysis of MRI data (provided by Sunnybrook hospital) for comparison between classifiers produced by:
